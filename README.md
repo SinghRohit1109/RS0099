@@ -1,2 +1,2 @@
 # portfolio
-Link: https://singhrohit1109.github.io
+Link: https://ripu.github.io
